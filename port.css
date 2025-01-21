@@ -11,7 +11,7 @@ html, body {
   flex-direction: column;
   color: #fff;
 }
-.lead { font-family: 'Quicksand'; }
+.lead { font-family: 'Ratherlafia Forghive'; }
 .header-bar {
   position: relative;
   width: 50%;
@@ -60,7 +60,7 @@ html, body {
   display: inline-flex;
   padding: 14px;
   margin-left: 2px;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Ratherlafia Forghive', sans-serif;
   color: #fff;
   cursor: pointer;
   transition: 0.3s linear all;
@@ -82,5 +82,5 @@ html, body {
   border-radius: 25px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
-.aeu-signature { font-family: "Quicksand"; }
+.aeu-signature { font-family: "Ratherlafia Forghive"; }
 .aeu-signature > img { height: 30px; }
