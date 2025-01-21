@@ -2,7 +2,20 @@
 html, body {
   height: 100%;
   margin: 0;
-  background-image: linear-gradient(to bottom right, rgb(235, 76, 171), rgb(227, 77, 171), rgb(218, 78, 170), rgb(210, 80, 170), rgb(202, 81, 170), rgb(193, 82, 170), rgb(185, 83, 169), rgb(176, 84, 169), rgb(168, 85, 169), rgb(160, 87, 169), rgb(151, 88, 168), rgb(143, 89, 168));
+  background-image: linear-gradient(to bottom right, 
+  rgb(47, 96, 45),
+  rgb(49, 97, 47),
+  rgb(51, 98, 49),
+  rgb(53, 100, 51),
+  rgb(55, 102, 53),
+  rgb(57, 103, 55),
+  rgb(59, 105, 57),
+  rgb(61, 107, 59),
+  rgb(63, 109, 61),
+  rgb(65, 110, 63),
+  rgb(67, 112, 65),
+  rgb(69, 114, 67)
+  );
 }
 .container {
   height: 100%;
@@ -12,7 +25,7 @@ html, body {
   flex-direction: column;
   color: #fff;
 }
-.lead { font-family: 'ratherlafia-forghive'; }
+.lead { font-family: 'Ratherlafia Forghive'; }
 .header-bar {
   position: relative;
   width: 50%;
@@ -43,7 +56,7 @@ html, body {
   left: 10px;
   transform: translateY(-50%);
   color: #fffc;
-  font-family: 'ratherlafia-forghive', sans-serif;
+  font-family: 'Ratherlafia Forghive', sans-serif;
   cursor: default;
   user-select: none;
 }
@@ -61,7 +74,7 @@ html, body {
   display: inline-flex;
   padding: 14px;
   margin-left: 2px;
-  font-family: 'ratherlafia-forghive', sans-serif;
+  font-family: 'Ratherlafia Forghive', sans-serif;
   color: #fff;
   cursor: pointer;
   transition: 0.3s linear all;
@@ -83,5 +96,5 @@ html, body {
   border-radius: 25px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
-.aeu-signature { font-family: "ratherlafia-forghive"; }
+.aeu-signature { font-family: "Ratherlafia Forghive"; }
 .aeu-signature > img { height: 30px; }
