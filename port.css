@@ -12,7 +12,7 @@ html, body {
   flex-direction: column;
   color: #fff;
 }
-.lead { font-family: 'Ratherlafia Forghive'; }
+.lead { font-family: 'ratherlafia-forghive'; }
 .header-bar {
   position: relative;
   width: 50%;
@@ -43,7 +43,7 @@ html, body {
   left: 10px;
   transform: translateY(-50%);
   color: #fffc;
-  font-family: 'Ratherlafia Forghive', sans-serif;
+  font-family: 'ratherlafia-forghive', sans-serif;
   cursor: default;
   user-select: none;
 }
@@ -61,7 +61,7 @@ html, body {
   display: inline-flex;
   padding: 14px;
   margin-left: 2px;
-  font-family: 'Ratherlafia Forghive', sans-serif;
+  font-family: 'ratherlafia-forghive', sans-serif;
   color: #fff;
   cursor: pointer;
   transition: 0.3s linear all;
@@ -83,5 +83,5 @@ html, body {
   border-radius: 25px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
-.aeu-signature { font-family: "Ratherlafia Forghive"; }
+.aeu-signature { font-family: "ratherlafia-forghive"; }
 .aeu-signature > img { height: 30px; }
