@@ -34,13 +34,16 @@ html, body {
   border-right: 10px solid #fffa;
   transition: 0.3s linear all;
 }
+
+
 .header-bar > .logo {
+    
   position: absolute;
   top: calc(50% - 20px);
   left: 10px;
   transform: translateY(-50%);
   color: #fffc;
-  font-family: 'Parisienne', cursive;
+  font-family: 'Ratherlafia Forghive', sans-serif;
   cursor: default;
   user-select: none;
 }
