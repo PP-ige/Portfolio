@@ -43,7 +43,7 @@ html, body {
   left: 10px;
   transform: translateY(-50%);
   color: #fffc;
-  font-family: 'Ratherlafia Forghive';
+  font-family: 'Ratherlafia Forghive', sans-serif;
   cursor: default;
   user-select: none;
 }
